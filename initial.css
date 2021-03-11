@@ -1,0 +1,13 @@
+.maintext{
+    text-align: center;
+}
+
+.mb-3
+{
+
+     margin-left: 100px;
+     margin-right: 100px;
+}
+#add, #clear{
+margin-left: 100px;
+}
